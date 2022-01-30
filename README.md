@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @serhanoner
-- 👀 I’m interested in data science in general, and I find data visualization as a mesmerizing concept
-- 🌱 I’m currently learning boosting algorithms
+- 👀 I’m interested in data science in general, and I find data visualization as a mesmerizing subject
+- 🌱 I’m currently studying deep learning
 - 💞️ I’m looking to collaborate on any kind of data science projects
 - 📫 How to reach me : aksakalserhan@gmail.com
 - ⚡ What I like to do: I like reading, football, and listening to music...and analysis ^^
